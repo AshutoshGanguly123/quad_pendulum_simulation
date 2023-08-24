@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 from scipy.integrate import odeint
 from matplotlib.animation import FuncAnimation
 from matplotlib import rcParams
+#imports
 
 
 def derivatives(y, t, L1, L2, m1, m2):
